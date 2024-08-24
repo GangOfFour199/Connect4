@@ -1,6 +1,6 @@
 # CONNECT 4
 
-![](assets/.png)
+![](assets/Connect4.png)
 
 
 
