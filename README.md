@@ -19,7 +19,7 @@ This is a take on the classic game of Connect 4, where the objective for a playe
 
 ## OBJECTIVE
 
-*The primary purpose of this assignment was to minimise the use of globally scoped variables + try utilising as many factory fucntions as possible. The programme has been wrapped in an object* **playGame()** *that can be called anytime during the code.*
+*The primary purpose of this assignment was to minimise the use of globally scoped variables + try utilising as many factory fucntions as possible. The programme has been wrapped in an object* ++**playGame()**++ *that can be called anytime during the code.*
 
 ## FOCUS TOPICS
 
