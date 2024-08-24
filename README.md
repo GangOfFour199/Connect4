@@ -14,7 +14,7 @@ This is a take on the classic game of Connect 4, where the objective for a playe
 - As soon as column is filled, no marker can be placed.
 - Alternates turns on each go and keeps track of number of moves.
 - A 'Play Again' button that restarts the game and resets elements.
-- CheckWinner fucntion that spots 4 counters in a row in all directions.
+- CheckWinner function that spots 4 counters in a row in all directions.
 - Working links.
 
 ## OBJECTIVE
