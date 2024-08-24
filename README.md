@@ -49,7 +49,7 @@ This is a take on the classic game of Connect 4, where the objective for a playe
 
 [Try the assignment on The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-tic-tac-toe)
 
-[Play the game here!](https://gangoffour199.github.io/Library/)
+[Play the game here!](https://gangoffour199.github.io/Connect4/)
 
 This markdown file was created using [dilinger.io](https://dillinger.io/)
 
