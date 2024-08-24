@@ -8,15 +8,18 @@
 
 This is a take on the classic game of Connect 4, where the objective for a player is to win by aligining 4 of their coloured counters in a row. This game includes features such as:
 
-- The ability to select their player names and have it display on the page
-- A  result message that pops up highlighting if player one or two has won. Also flashes a message if there is a tie.
+- The ability to select their player names and have it display on the page.
+- A result message that pops up highlighting if player one or two has won. Also flashes a message if there is a tie.
 - When a counter is placed, it begins from the bottom of the column and stacks up.
 - As soon as column is filled, no marker can be placed.
-- Alternates turns on each go and keeps tarck of number of moves.
-- A 'Play Again' button that restarts the game
+- Alternates turns on each go and keeps track of number of moves.
+- A 'Play Again' button that restarts the game and resets elements.
+- CheckWinner fucntion that spots 4 counters in a row in all directions.
 - Working links.
 
-*One primary purpose of this assignment was to minimuse the use of globally scoped variables + try utilising as many factory fucntions as possible. The programme has been wrapped in an object ++playGame()++ that can be called anytime during the code.*
+## OBJECTIVE
+
+*The primary purpose of this assignment was to minimise the use of globally scoped variables + try utilising as many factory fucntions as possible. The programme has been wrapped in an object ++playGame()++ that can be called anytime during the code.*
 
 ## FOCUS TOPICS
 
