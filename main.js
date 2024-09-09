@@ -175,6 +175,7 @@ const checkWinner = function() {
             if(board[r][c] != ' ') { 
                 if(board[r][c] == board[r+1][c+1] && board[r+1][c+1] == board[r+2][c+2] && board[r+2][c+2] == board[r+3][c+3]) {
                     winningPlayer(r,c);
+                    foundWinner = true;
                     return;
                 } 
             } 
